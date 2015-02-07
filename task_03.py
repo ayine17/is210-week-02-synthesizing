@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """A file to assign strings to varriables"""
 
-CHARLIE = "Chocolate Factory"
+CHARLIE = "Brown"
 VIOLET = "Gray"
 PATRICIA = "Reichardt"
 LINUS = "van Pelt"
