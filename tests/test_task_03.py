@@ -16,7 +16,7 @@ class Task03TestCase(unittest.TestCase):
 
     def test_charlie(self):
         """Tests that CHARLIE has a value of 'Brown'"""
-        self.assertEquals(test_task, 'Chocolate Factory')
+        self.assertEquals(test_task, 'Brown')
 
     def test_violet(self):
         """Tests that VIOLET has a value of 'Gray'"""
